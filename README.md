@@ -1,8 +1,8 @@
 ![gittuf logo](./artwork/PNG/gittuf_horizontal-color.png)
 
-gittuf provides a security layer for Git repositories. The project is part of
-the Open Source Security Foundation's sandbox. This repository contains
-community aspects of gittuf.
+gittuf provides a security layer for Git repositories. The project is in the
+incubating stage at the Open Source Security Foundation. This repository
+contains community aspects of gittuf.
 
 ## Join Us
 
