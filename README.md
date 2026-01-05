@@ -7,7 +7,8 @@ contains community aspects of gittuf.
 ## Join Us
 
 Come say hello! We're on the OpenSSF Slack workspace and hold a community
-meeting on the **second Friday of every month at 11 AM Eastern Time**. See
+meeting on the **second Friday of every month at 11 AM Eastern Time** and the
+**fourth Friday of every month at 10 AM Eastern Time**. See
 [https://openssf.org/getinvolved/](https://openssf.org/getinvolved/) for meeting
 details.
 
