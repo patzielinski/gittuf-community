@@ -15,7 +15,9 @@ for new users.
 **Improve gittuf's UI and UX**: gittuf is currently driven primarily by a
 CLI-based workflow. The gittuf TUI is a work-in-progress UX improvement, where
 users instead interact with gittuf more akin to a traditional desktop program.
-The TUI is currently basic, and 
+The TUI is currently basic, and extending its functionality and improving its
+appearance so that it can be the primary way users interact with gittuf would be
+ideal.
 
 **Enable temporary/time-limited approvals**: There may be cases when a developer
 may need to exercise some discretionary authority and approve something in
